@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
+      "repo": "https://github.com/AgentFabulous/begonia",
+      "branch": "android_11.0",
       "device": "odin"
     },
     "withKernelSU": true,
